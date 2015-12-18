@@ -1,0 +1,3 @@
+[submodule "securedrop"]
+	path = securedrop
+	url = https://github.com/mark-in/securedrop-app-code
